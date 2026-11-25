@@ -6,6 +6,7 @@ dev-dist/
 playwright-report/
 test-results/
 .venv/
+.chart-cache/
 
 # 調査素材（参照写真・台帳）はエンジンリポジトリ（非公開）で保管し、公開リポジトリには入れない
 docs/research/
