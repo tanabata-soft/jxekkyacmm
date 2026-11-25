@@ -1,0 +1,523 @@
+{
+  "kirakira": [
+    {
+      "text": "昼の十二時 木曽福島",
+      "startMs": 13400,
+      "endMs": 18900
+    },
+    {
+      "text": "改札の前で 待ち合わせ",
+      "startMs": 18900,
+      "endMs": 25400
+    },
+    {
+      "text": "サングラスの彼は 時刻表を逆さに持って",
+      "startMs": 25400,
+      "endMs": 31800
+    },
+    {
+      "text": "「次のバスは？」",
+      "startMs": 31800,
+      "endMs": 39100
+    },
+    {
+      "text": "木曽馬に会いたいと 言い出して",
+      "startMs": 39100,
+      "endMs": 41600
+    },
+    {
+      "text": "予定はぜんぶ 変えようぜ",
+      "startMs": 41600,
+      "endMs": 45100
+    },
+    {
+      "text": "私はいつも 地図を見て",
+      "startMs": 45100,
+      "endMs": 49500
+    },
+    {
+      "text": "俺はいつも 風を見る",
+      "startMs": 49500,
+      "endMs": 52200
+    },
+    {
+      "text": "バスは一日 数えるほど",
+      "startMs": 52200,
+      "endMs": 55000
+    },
+    {
+      "text": "それでもなぜか 焦らない",
+      "startMs": 55000,
+      "endMs": 58900
+    },
+    {
+      "text": "Hey, hey,",
+      "startMs": 58900,
+      "endMs": 60400
+    },
+    {
+      "text": "今日はどこまで 行こうか",
+      "startMs": 60400,
+      "endMs": 63900
+    },
+    {
+      "text": "ニコラス・ケイジと 木曽と私",
+      "startMs": 63900,
+      "endMs": 70800
+    },
+    {
+      "text": "終バスは もう行った",
+      "startMs": 70800,
+      "endMs": 77800
+    },
+    {
+      "text": "Cage and Kiso and me",
+      "startMs": 77800,
+      "endMs": 81100
+    },
+    {
+      "text": "Tonight we walk, 木曽川沿い",
+      "startMs": 81100,
+      "endMs": 90100
+    },
+    {
+      "text": "温泉の湯気で サングラスが曇る",
+      "startMs": 90100,
+      "endMs": 94100
+    },
+    {
+      "text": "湯上がりに とうもろこしソフト",
+      "startMs": 94100,
+      "endMs": 97200
+    },
+    {
+      "text": "五平餅を 半分こして",
+      "startMs": 97200,
+      "endMs": 101000
+    },
+    {
+      "text": "御嶽山に 夕日が落ちる",
+      "startMs": 101000,
+      "endMs": 102900
+    },
+    {
+      "text": "バス停のベンチ ヒノキの香り",
+      "startMs": 102900,
+      "endMs": 106100
+    },
+    {
+      "text": "時刻表を 三回読んだ",
+      "startMs": 106100,
+      "endMs": 109000
+    },
+    {
+      "text": "次のバスは 明日の朝",
+      "startMs": 109000,
+      "endMs": 112200
+    },
+    {
+      "text": "「じゃあ 歩こう」",
+      "startMs": 112200,
+      "endMs": 117600
+    },
+    {
+      "text": "谷底の空に 星が出た",
+      "startMs": 117600,
+      "endMs": 121000
+    },
+    {
+      "text": "(Stars, stars)",
+      "startMs": 121000,
+      "endMs": 123000
+    },
+    {
+      "text": "街灯は ひとつだけ",
+      "startMs": 123000,
+      "endMs": 124800
+    },
+    {
+      "text": "(Only one)",
+      "startMs": 124800,
+      "endMs": 125800
+    },
+    {
+      "text": "歩いて帰る 長い道",
+      "startMs": 125800,
+      "endMs": 128300
+    },
+    {
+      "text": "(Long way home)",
+      "startMs": 128300,
+      "endMs": 129600
+    },
+    {
+      "text": "でも 悪くない",
+      "startMs": 129600,
+      "endMs": 157000
+    },
+    {
+      "text": "ニコラス・ケイジと 木曽と私",
+      "startMs": 157000,
+      "endMs": 163300
+    },
+    {
+      "text": "終バスは もう行った",
+      "startMs": 163300,
+      "endMs": 170600
+    },
+    {
+      "text": "Cage and Kiso and me",
+      "startMs": 170600,
+      "endMs": 174400
+    },
+    {
+      "text": "Tonight we walk, 木曽川沿い",
+      "startMs": 174400,
+      "endMs": 177000
+    },
+    {
+      "text": "朝が来なくても いい夜",
+      "startMs": 177000,
+      "endMs": 182500
+    },
+    {
+      "text": "温泉に サングラス 忘れた",
+      "startMs": 182500,
+      "endMs": 188900
+    },
+    {
+      "text": "明日 取りに行こう",
+      "startMs": 188900,
+      "endMs": 195000
+    },
+    {
+      "text": "…また 明日！",
+      "startMs": 195000,
+      "endMs": 199000
+    }
+  ],
+  "tanizoko": [
+    {
+      "text": "谷底の 霧の中",
+      "startMs": 22800,
+      "endMs": 31700
+    },
+    {
+      "text": "ひとり歩いた 木曽の朝",
+      "startMs": 31700,
+      "endMs": 36500
+    },
+    {
+      "text": "祈る言葉も 見つからず",
+      "startMs": 36500,
+      "endMs": 43200
+    },
+    {
+      "text": "そこに立ってた ニコラス・ケイジ",
+      "startMs": 43200,
+      "endMs": 52300
+    },
+    {
+      "text": "「なんでいるの」と 聞けなくて",
+      "startMs": 52300,
+      "endMs": 58600
+    },
+    {
+      "text": "並んで歩く 石畳",
+      "startMs": 58600,
+      "endMs": 64600
+    },
+    {
+      "text": "彼は叫ぶ 木曽は黙る",
+      "startMs": 64600,
+      "endMs": 70400
+    },
+    {
+      "text": "私はただ あいだにいる",
+      "startMs": 70400,
+      "endMs": 79300
+    },
+    {
+      "text": "木曽川は 今日も流れてる",
+      "startMs": 79300,
+      "endMs": 85400
+    },
+    {
+      "text": "叫ぶ男も 黙る山も",
+      "startMs": 85400,
+      "endMs": 92100
+    },
+    {
+      "text": "私のことも 洗いながら",
+      "startMs": 92100,
+      "endMs": 99500
+    },
+    {
+      "text": "ニコラス・ケイジと 木曽と私 (Hallelujah!)",
+      "startMs": 99500,
+      "endMs": 105800
+    },
+    {
+      "text": "叫ぶ人と 待つ山と (Hallelujah!)",
+      "startMs": 105800,
+      "endMs": 111800
+    },
+    {
+      "text": "ニコラス・ケイジと 木曽と私 (Hallelujah!)",
+      "startMs": 111800,
+      "endMs": 117800
+    },
+    {
+      "text": "谷底にも 朝が来る (朝が来る!)",
+      "startMs": 117800,
+      "endMs": 123900
+    },
+    {
+      "text": "彼は突然 ひざをつき",
+      "startMs": 123900,
+      "endMs": 132100
+    },
+    {
+      "text": "御嶽山に 手を広げ",
+      "startMs": 132100,
+      "endMs": 134800
+    },
+    {
+      "text": "「神さま！」なのか 「なんてこった！」なのか",
+      "startMs": 134800,
+      "endMs": 140300
+    },
+    {
+      "text": "どっちにしても 声は届く",
+      "startMs": 140300,
+      "endMs": 148400
+    },
+    {
+      "text": "宿の食卓 すんきの椀",
+      "startMs": 148400,
+      "endMs": 152400
+    },
+    {
+      "text": "長い冬を 耐えた味",
+      "startMs": 152400,
+      "endMs": 156300
+    },
+    {
+      "text": "木曽の人は 待つことを",
+      "startMs": 156300,
+      "endMs": 159300
+    },
+    {
+      "text": "ケイジは叫ぶことを 私は 私は",
+      "startMs": 159300,
+      "endMs": 170200
+    },
+    {
+      "text": "(ケイジは叫ぶ)",
+      "startMs": 170200,
+      "endMs": 171300
+    },
+    {
+      "text": "叫ばなきゃ 届かない夜がある",
+      "startMs": 171300,
+      "endMs": 176500
+    },
+    {
+      "text": "(木曽は黙る)",
+      "startMs": 176500,
+      "endMs": 177600
+    },
+    {
+      "text": "黙ってなきゃ 聞こえない朝がある",
+      "startMs": 177600,
+      "endMs": 183000
+    },
+    {
+      "text": "谷底から 見上げた空は",
+      "startMs": 183000,
+      "endMs": 187500
+    },
+    {
+      "text": "こんなにも 近かった",
+      "startMs": 187500,
+      "endMs": 192900
+    },
+    {
+      "text": "(標高1000メートル)",
+      "startMs": 192900,
+      "endMs": 193600
+    },
+    {
+      "text": "Say Nicolas! (Cage!)",
+      "startMs": 193600,
+      "endMs": 196700
+    },
+    {
+      "text": "Say Ontake! (Ontake!)",
+      "startMs": 196700,
+      "endMs": 198300
+    },
+    {
+      "text": "Say Kiso! (Kiso!)",
+      "startMs": 198300,
+      "endMs": 199800
+    },
+    {
+      "text": "Say me! (You!)",
+      "startMs": 199800,
+      "endMs": 200800
+    },
+    {
+      "text": "ニコラス・ケイジと 木曽と私",
+      "startMs": 200800,
+      "endMs": 204500
+    },
+    {
+      "text": "叫んで 黙って 歌って",
+      "startMs": 204500,
+      "endMs": 207200
+    },
+    {
+      "text": "ニコラス・ケイジと 木曽と私",
+      "startMs": 207200,
+      "endMs": 210900
+    },
+    {
+      "text": "谷底にも 朝が来る！",
+      "startMs": 210900,
+      "endMs": 223200
+    },
+    {
+      "text": "Morning came, and he was gone.",
+      "startMs": 223200,
+      "endMs": 229000
+    },
+    {
+      "text": "Only the mountain stayed,",
+      "startMs": 229000,
+      "endMs": 230500
+    },
+    {
+      "text": "and the river, still running.",
+      "startMs": 230500,
+      "endMs": 234700
+    },
+    {
+      "text": "He shouted. Kiso kept quiet.",
+      "startMs": 234700,
+      "endMs": 239500
+    },
+    {
+      "text": "And somewhere in between, I learned to sing.",
+      "startMs": 239500,
+      "endMs": 245800
+    },
+    {
+      "text": "Amen, Kiso.",
+      "startMs": 245800,
+      "endMs": 249800
+    }
+  ],
+  "corn": [
+    {
+      "text": "Hello? ...Hello? Is this thing on?",
+      "startMs": 0,
+      "endMs": 5600
+    },
+    {
+      "text": "It's me. The sunglasses guy.",
+      "startMs": 5600,
+      "endMs": 9100
+    },
+    {
+      "text": "I left my sunglasses at the hot spring.",
+      "startMs": 9100,
+      "endMs": 12000
+    },
+    {
+      "text": "PLEASE don't sell them.",
+      "startMs": 12000,
+      "endMs": 13700
+    },
+    {
+      "text": "I walked all night.",
+      "startMs": 13700,
+      "endMs": 17600
+    },
+    {
+      "text": "The river was loud.",
+      "startMs": 17600,
+      "endMs": 19300
+    },
+    {
+      "text": "...I was louder.",
+      "startMs": 19300,
+      "endMs": 21200
+    },
+    {
+      "text": "I saw Own-tah-keh in the morning.",
+      "startMs": 21200,
+      "endMs": 24200
+    },
+    {
+      "text": "It didn't say anything.",
+      "startMs": 24200,
+      "endMs": 25000
+    },
+    {
+      "text": "It just stood there.",
+      "startMs": 25000,
+      "endMs": 27800
+    },
+    {
+      "text": "...It was perfect.",
+      "startMs": 27800,
+      "endMs": 29800
+    },
+    {
+      "text": "Is the mountain still there?",
+      "startMs": 29800,
+      "endMs": 33800
+    },
+    {
+      "text": "...Good.",
+      "startMs": 33800,
+      "endMs": 36000
+    },
+    {
+      "text": "Tell Key-so... thank you.",
+      "startMs": 36000,
+      "endMs": 38000
+    },
+    {
+      "text": "Thank you for the corn soft-serve.",
+      "startMs": 38000,
+      "endMs": 40900
+    },
+    {
+      "text": "THANK YOU FOR THE CORN SOFT-SERVE!",
+      "startMs": 40900,
+      "endMs": 44800
+    },
+    {
+      "text": "...Sorry. Too loud.",
+      "startMs": 44800,
+      "endMs": 49700
+    },
+    {
+      "text": "Also, where is the last bus?",
+      "startMs": 49700,
+      "endMs": 53300
+    },
+    {
+      "text": "...Never mind. I'll walk.",
+      "startMs": 53300,
+      "endMs": 56700
+    },
+    {
+      "text": "See you tomorrow.",
+      "startMs": 56700,
+      "endMs": 59000
+    }
+  ]
+}
